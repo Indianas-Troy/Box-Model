@@ -1,11 +1,20 @@
-p{font-style: oblique;
-  color: blue;}
+.album-info {
+  font-style: oblique;
+  color: blue;
+  margin-left: 275px;
+}
 
-h1{font-style: italic;}  
+h1 {
+  font-style: italic;
+}
 
-img{height: 250px}
-
-li{border-color: crimson;
-  border-style: solid;
+img {
   height: 250px;
-  width: 450px
+}
+
+li {
+  border-color: crimson;
+  border-style: solid;
+  width: 700px;
+  list-style: none;
+}
